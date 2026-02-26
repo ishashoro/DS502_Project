@@ -1,4 +1,4 @@
-# Ferry Speed Optimization for Fuel and Emission Reduction
+# Urban Ferry Speed Optimization for Fuel Consumption and Pollutant Emissions Reduction 
 
 # Problem 
 Ferries in Istanbul have fixed schedules; however, the traveling speed of the ferries may or may not be at the optimal level regarding energy efficiency. The fuel consumption and pollutant emissions increase nonlinearly with speed, creating a need to find an optimum speed value that will reduce the fuel consumption and pollutant emissions. 
